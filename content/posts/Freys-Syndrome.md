@@ -38,7 +38,7 @@ Approach is preventative, using fat flaps, musculoaponeurotic flaps, acellular d
 ![](/images/Freys-Syndrome/IMG_5391.PNG/)
 *Minor's starch iodine test: an iodine solution is applied and allowed to dry, starch powder is dusted upon the area, patient is given a sialogogue*
 
-![](/../images/Freys-Syndrome/IMG_5392.PNG/)
+![](/content/images/Freys-Syndrome/IMG_5392.PNG/)
 *Staining reveals areas of sweating, here the patient's extensive gustatory sweating has entirely washed off the starch powder with the iodine-stained sweat*
 
 
