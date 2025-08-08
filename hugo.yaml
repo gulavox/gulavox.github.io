@@ -1,0 +1,6 @@
+baseURL: https://gulavox.github.io/
+languageCode: en-us
+title: Gula
+contentDir: content
+
+theme: ["PaperMod"]
