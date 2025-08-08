@@ -18,7 +18,7 @@ The complete triad is uncommon and may be observed in 25% to 33% of patients, ev
 
 Unknown etiology, commonly treated with corticosteroids. 
 
-![](https://gulavox.github.io/posts/images/Cheilitis-Granulomatosa/Melkersson-Rosenthal-syndrome-presenting-with-A-facial-edema-and-tongue-fissuring-and.png/)
+![](https://gulavox.github.io/posts/images/Cheilitis-Granulomatosa/Melkersson-Rosenthal-syndrome-presenting-with-A-facial-edema-and-tongue-fissuring-and.png)
 
 
 [Source 1](https://www.ncbi.nlm.nih.gov/books/NBK470396/)
